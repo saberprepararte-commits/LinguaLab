@@ -1,0 +1,8 @@
+INSTRUCCIONES RÁPIDAS
+
+1. Sube index.html, README.md y .nojekyll a un repositorio de GitHub.
+2. Ve a Settings > Pages.
+3. Selecciona la rama main y carpeta /root.
+4. Espera el enlace de publicación.
+
+Archivo principal: index.html
